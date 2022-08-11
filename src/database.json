@@ -1,0 +1,139 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+      "name": "Boots",
+      "description": "Just a plain boots to wear on your powerful heroic legs. Made from leather, comfortable enough.",
+      "price": 695,
+      "asset": "UAH",
+      "weight": 2.5
+    },
+    {
+      "id": 2,
+      "img": "http://dummyimage.com/250x250.png/dddddd/000000",
+      "name": "Strength potion",
+      "description": "You want to get you muscles bigger? Just drink this thing and gain +5 STR for 5 minutes!",
+      "price": 1,
+      "asset": "BTC",
+      "weight": 0.25
+    },
+    {
+      "id": 3,
+      "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+      "name": "Sword",
+      "description": "An iron sword to cut your enemies' heads. Easy to use and pretty common item.",
+      "price": 1200,
+      "asset": "USD",
+      "weight": 4
+    },
+    {
+      "id": 4,
+      "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+      "name": "Gloves",
+      "description": "A pair of leather gloves, nothing special. Helps you to keep your hands less dirty.",
+      "price": 520,
+      "asset": "UAH",
+      "weight": 1.5
+    },
+    {
+      "id": 5,
+      "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+      "name": "Boots of better",
+      "description": "Is just a boots but a bit better than the plain boots. All the village girls will like these boots.",
+      "price": 1.25,
+      "asset": "BTC",
+      "weight": 2.5
+    },
+    {
+      "id": 6,
+      "img": "http://dummyimage.com/250x250.png/dddddd/000000",
+      "name": "Healing potion",
+      "description": "Some spider or maybe a wolf bit your ankle? Try this liquid out to heal your wounds. But I'd recommend you wearing some boots next time.",
+      "price": 125,
+      "asset": "USD",
+      "weight": 0.25
+    },
+    {
+      "id": 7,
+      "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+      "name": "Trousers",
+      "description": "You better acquire a pair of these. Have you seen any heroes running around in underwear only? Yeah, I know you saw some of them, but have you seen them again?",
+      "price": 520,
+      "asset": "USD",
+      "weight": 2
+    },
+    {
+      "id": 8,
+      "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+      "name": "Helmet",
+      "description": "This peace of steel will probably save your life if you get hit with some stick or small rock. But don't rely on it if you encounter ogres with their massive clubs.",
+      "price": 9000,
+      "asset": "UAH",
+      "weight": 2
+    },
+    {
+      "id": 9,
+      "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+      "name": "Green healing potion",
+      "description": "This healing potion is green! Probably it heals more health per use. Or less, I'm not sure.",
+      "price": 150,
+      "asset": "USD",
+      "weight": 0.35
+    },
+    {
+      "id": 10,
+      "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+      "name": "Lady gloves",
+      "description": "These gloves are for ladies and definitely not for muscular heroic men.",
+      "price": 5,
+      "asset": "ETH",
+      "weight": 0.5
+    },
+    {
+      "id": 11,
+      "img": "http://dummyimage.com/250x250.png/dddddd/000000",
+      "name": "Quick boots",
+      "description": "These boots for ones who want to go fast! They colored red, that's why they go faster than usual ones!",
+      "price": 1.5,
+      "asset": "BTC",
+      "weight": 2
+    },
+    {
+      "id": 12,
+      "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+      "name": "Hard helmet",
+      "description": "This helmet feels much harder than the regular helmet, also it weighs more. But probably it would help you to survive a hit from an ogre club.",
+      "price": 1600,
+      "asset": "UAH",
+      "weight": 5
+    },
+    {
+      "id": 13,
+      "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+      "name": "Small sword",
+      "description": "Smol sword. For those who want smaller swords.",
+      "price": 2,
+      "asset": "ETH",
+      "weight": 2
+    },
+    {
+      "id": 14,
+      "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+      "name": "Armor",
+      "description": "Finally some armor steel armor! But what's wrong with this price? Why is it so expensive&",
+      "price": 5400,
+      "asset": "USD",
+      "weight": 18
+    },
+    {
+      "id": 15,
+      "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+      "name": "Herbs",
+      "description": "Various herbs for your druidic purposes.",
+      "price": 5,
+      "asset": "ETH",
+      "weight": 0.1
+    }
+  ]
+}
